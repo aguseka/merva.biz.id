@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://merva.biz.id/sitemap.xml

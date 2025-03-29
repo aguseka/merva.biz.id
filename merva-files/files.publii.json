@@ -1,0 +1,517 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ad92ac256f925cbb919a20730babbaa7"
+    },
+    {
+        "path": "5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial.html",
+        "type": "file",
+        "md5": "1cbba3d85d0234a3cef8e0fe980bb09b"
+    },
+    {
+        "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis.html",
+        "type": "file",
+        "md5": "3a67e68af8473f9c76658d5d007a2a1c"
+    },
+    {
+        "path": "about-merva.html",
+        "type": "file",
+        "md5": "4d6779dc29335ac4c8cc7f248b4e7207"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "9885903a2ab81f1a888f22c676ed797e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "da6e9be0fa855edd3610e97c1d4e38d9"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "81e981439dff3181421530daf1b22e9d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/aleo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/aleo/aleo.woff2",
+        "type": "file",
+        "md5": "d972168af4846da95cd20803fd9e9b8b"
+    },
+    {
+        "path": "assets/dynamic/fonts/publicsans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/publicsans/publicsans.woff2",
+        "type": "file",
+        "md5": "ce5051af671530872721c0304dcc062e"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "bbe9995f7e2156956f75b2b1201a8dc8"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "b2d91bcadbf5db401b76eb5bb3092eb7"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "edadc70a4de28c12ca24735b42f0f99d"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "92c2948f54b3fbcc72bd7c6755b6efea"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/eka-maharta",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/eka-maharta/index.html",
+        "type": "file",
+        "md5": "e1981860fc966c5677f646bb075cca84"
+    },
+    {
+        "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal.html",
+        "type": "file",
+        "md5": "56f955556a8ca60deda958441df1ecdc"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "7e9e66bf03e3e3e41d0379d6b7f4805b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "4e262f4bc62cb11c1bfe10d779a18a2a"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "169fb8651d29a2b9f18781dd0affd9cd"
+    },
+    {
+        "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
+        "type": "file",
+        "md5": "c80add98af86eba28ce5c555813cac72"
+    },
+    {
+        "path": "layanan-kami.html",
+        "type": "file",
+        "md5": "22c162ea1cf734fd929b65d4658c63da"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/pexels-pixabay-267350.jpg",
+        "type": "file",
+        "md5": "3abdf310c85c7803a97b119e99fd74b8"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/pexels-pixabay-267350-md.webp",
+        "type": "file",
+        "md5": "a7d4afd5cf31ef9d7a0b454bb240fe2c"
+    },
+    {
+        "path": "/media/posts/10/responsive/pexels-pixabay-267350-sm.webp",
+        "type": "file",
+        "md5": "32a1ea9285e50061e7deee5d4da3f154"
+    },
+    {
+        "path": "/media/posts/10/responsive/pexels-pixabay-267350-xl.webp",
+        "type": "file",
+        "md5": "ee53506d3bb9b4fb64ca2e22cf862804"
+    },
+    {
+        "path": "/media/posts/10/responsive/pexels-pixabay-267350-xs.webp",
+        "type": "file",
+        "md5": "a832b0e334525d19b4786a62b5c972d0"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/pexels-mikael-blomkvist-6476584.jpg",
+        "type": "file",
+        "md5": "5839f83dfc57cca9d98bf4c4b1814da7"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/pexels-mikael-blomkvist-6476584-md.webp",
+        "type": "file",
+        "md5": "9c01dfcf1af2c5097bee7c12cdbdb524"
+    },
+    {
+        "path": "/media/posts/2/responsive/pexels-mikael-blomkvist-6476584-sm.webp",
+        "type": "file",
+        "md5": "2147c9be0a7a7e5d11133aab642a2738"
+    },
+    {
+        "path": "/media/posts/2/responsive/pexels-mikael-blomkvist-6476584-xl.webp",
+        "type": "file",
+        "md5": "1893494ced42ebd6e34607324706b76f"
+    },
+    {
+        "path": "/media/posts/2/responsive/pexels-mikael-blomkvist-6476584-xs.webp",
+        "type": "file",
+        "md5": "c0b15cde6751511332fe2b3b5788711f"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/pexels-thelazyartist-1642125.jpg",
+        "type": "file",
+        "md5": "93a4ef8a4e9d23fde14af1840a089331"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/pexels-thelazyartist-1642125-md.webp",
+        "type": "file",
+        "md5": "efaa4bbbf79b84aa9bf05569a53b39b1"
+    },
+    {
+        "path": "/media/posts/4/responsive/pexels-thelazyartist-1642125-sm.webp",
+        "type": "file",
+        "md5": "9e8536e37b07734c8b5c7fb92f1b1bad"
+    },
+    {
+        "path": "/media/posts/4/responsive/pexels-thelazyartist-1642125-xl.webp",
+        "type": "file",
+        "md5": "21f708f6b728057b865b2ced40c18b0e"
+    },
+    {
+        "path": "/media/posts/4/responsive/pexels-thelazyartist-1642125-xs.webp",
+        "type": "file",
+        "md5": "67a9f28109c874282da5eed389661697"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/pexels-tima-miroshnichenko-5662849.jpg",
+        "type": "file",
+        "md5": "e823ca8cc19708a556ebaf90b0d03742"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/pexels-tima-miroshnichenko-5662849-md.webp",
+        "type": "file",
+        "md5": "09b89f7824f26b38de8a9c902760a982"
+    },
+    {
+        "path": "/media/posts/5/responsive/pexels-tima-miroshnichenko-5662849-sm.webp",
+        "type": "file",
+        "md5": "bd80a665805e4b7361a4a399db27d14a"
+    },
+    {
+        "path": "/media/posts/5/responsive/pexels-tima-miroshnichenko-5662849-xl.webp",
+        "type": "file",
+        "md5": "5fa7e6532e44b78736ea54270aab55d0"
+    },
+    {
+        "path": "/media/posts/5/responsive/pexels-tima-miroshnichenko-5662849-xs.webp",
+        "type": "file",
+        "md5": "7e23f86758b5d67b5dac59303d4682bf"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/pexels-divinetechygirl-1181449.jpg",
+        "type": "file",
+        "md5": "7a75f46a2e7358e2a43cac23607f5740"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/pexels-divinetechygirl-1181449-md.webp",
+        "type": "file",
+        "md5": "3d7140293935376e082ecb1eeff6cd1c"
+    },
+    {
+        "path": "/media/posts/6/responsive/pexels-divinetechygirl-1181449-sm.webp",
+        "type": "file",
+        "md5": "535cedbaa7e9002264cdb3a792147007"
+    },
+    {
+        "path": "/media/posts/6/responsive/pexels-divinetechygirl-1181449-xl.webp",
+        "type": "file",
+        "md5": "3352ac07d1940e9ed08f00e229500e91"
+    },
+    {
+        "path": "/media/posts/6/responsive/pexels-divinetechygirl-1181449-xs.webp",
+        "type": "file",
+        "md5": "e7d16ab26523920dc49e21784cb5ca49"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/pexels-karolina-grabowska-4386373.jpg",
+        "type": "file",
+        "md5": "3d5a36d4f726ad1dbfebcaff8aa107d2"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/pexels-karolina-grabowska-4386373-md.webp",
+        "type": "file",
+        "md5": "cb2699057f6c2fed2e7a8384b2ae6715"
+    },
+    {
+        "path": "/media/posts/7/responsive/pexels-karolina-grabowska-4386373-sm.webp",
+        "type": "file",
+        "md5": "f04db2fd33fa4c48f4c22a86497ea405"
+    },
+    {
+        "path": "/media/posts/7/responsive/pexels-karolina-grabowska-4386373-xl.webp",
+        "type": "file",
+        "md5": "d787508b17e262d25c8efe59bad50cc4"
+    },
+    {
+        "path": "/media/posts/7/responsive/pexels-karolina-grabowska-4386373-xs.webp",
+        "type": "file",
+        "md5": "03478dfa98f06ca05b21daa0c44e5497"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/pexels-apgpotr-702251.jpg",
+        "type": "file",
+        "md5": "5b8d85ef4eb409a4212d0e870add2432"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/pexels-apgpotr-702251-md.webp",
+        "type": "file",
+        "md5": "50903a295281b6f693ee57de6dcc9f96"
+    },
+    {
+        "path": "/media/posts/8/responsive/pexels-apgpotr-702251-sm.webp",
+        "type": "file",
+        "md5": "5438a9c9bf936a9ae3cca39988e629ba"
+    },
+    {
+        "path": "/media/posts/8/responsive/pexels-apgpotr-702251-xl.webp",
+        "type": "file",
+        "md5": "e69bc465bdb388031d1a4a04907997db"
+    },
+    {
+        "path": "/media/posts/8/responsive/pexels-apgpotr-702251-xs.webp",
+        "type": "file",
+        "md5": "4ca45ee60f91ea3b6e9a47fbc8220c35"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/pexels-erikscheel-95425.jpg",
+        "type": "file",
+        "md5": "10b8857fc48d48943295f04cbbb18deb"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/pexels-erikscheel-95425-md.webp",
+        "type": "file",
+        "md5": "68303063d8d9e828df4a84acb21fc04a"
+    },
+    {
+        "path": "/media/posts/9/responsive/pexels-erikscheel-95425-sm.webp",
+        "type": "file",
+        "md5": "4d2103dd74c4131d1421f4d7e894ab54"
+    },
+    {
+        "path": "/media/posts/9/responsive/pexels-erikscheel-95425-xl.webp",
+        "type": "file",
+        "md5": "99c003cd5d4e54b8a7964eef35714dac"
+    },
+    {
+        "path": "/media/posts/9/responsive/pexels-erikscheel-95425-xs.webp",
+        "type": "file",
+        "md5": "12ca1688d4aed3cca0673c6b1ea50536"
+    },
+    {
+        "path": "membuat-website-murah-itu-mungkin-contohnya-blog-ini.html",
+        "type": "file",
+        "md5": "a11c33f6e038842f086c65b8556b1291"
+    },
+    {
+        "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi.html",
+        "type": "file",
+        "md5": "490a0bee111b90df7d268fa89b20ab50"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "4f10b526f93c21c50bdc571fb8e396c2"
+    },
+    {
+        "path": "sepuluh-software-akuntansi-gratis-nomor-8-bahkan-ada-modul-hrd-nya.html",
+        "type": "file",
+        "md5": "5daf2bdf460b69950f90566c61df76a6"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "32c676cbf78756c1568c8ff407802e7d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "8ce7771188ded87267622e7a31825ba6"
+    },
+    {
+        "path": "tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong.html",
+        "type": "file",
+        "md5": "3846743052dd5d25c7ae45d169433c92"
+    }
+]
