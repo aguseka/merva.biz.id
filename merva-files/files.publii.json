@@ -162,12 +162,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "7e9e66bf03e3e3e41d0379d6b7f4805b"
+        "md5": "ffbd8d1d63099fc9947b0e1112c579a2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4e262f4bc62cb11c1bfe10d779a18a2a"
+        "md5": "5657e6ab84cc8767b5b5596f286ceb9e"
     },
     {
         "path": "index.html",
@@ -487,7 +487,7 @@
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi.html",
         "type": "file",
-        "md5": "fe7bb986a8ef9271f91ecba567c8585f"
+        "md5": "660a46631e6397c5380ce589e1431595"
     },
     {
         "path": "robots.txt",
@@ -502,7 +502,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ca9f76624edac7f22b841aac05999564"
+        "md5": "3b53c4fda1090b9a0c7a97b5315f56ba"
     },
     {
         "path": "sitemap.xsl",
