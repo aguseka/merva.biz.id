@@ -147,12 +147,32 @@
     {
         "path": "/authors/eka-maharta/index.html",
         "type": "file",
-        "md5": "9188e3fcd14bf14ea769dabd9f0e6e07"
+        "md5": "d932839c1ca3fc5c24ebbd2c0ac6311c"
+    },
+    {
+        "path": "authors/eka-maharta/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/eka-maharta/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/eka-maharta/page/2/index.html",
+        "type": "file",
+        "md5": "14255cd78355480fc73f7f44590205ea"
     },
     {
         "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal.html",
         "type": "file",
-        "md5": "ca5fd8972c8952e1bd23013cca5b1200"
+        "md5": "4e2406bf8d9472ed321a702a1153d000"
+    },
+    {
+        "path": "bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja.html",
+        "type": "file",
+        "md5": "fe5883ec5b8f554dd0f7b8bc823e9e92"
     },
     {
         "path": "e-book.html",
@@ -162,17 +182,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ffbd8d1d63099fc9947b0e1112c579a2"
+        "md5": "d7590c119026f67144620186ba5070f2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5657e6ab84cc8767b5b5596f286ceb9e"
+        "md5": "43d96515950ba7de31d69b3640f1d9f2"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f4a7a286ddcc570ad62566e6fbbd27b0"
+        "md5": "4cff3a1e05b5c8aceb446023fb4b8f0b"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
@@ -490,6 +510,21 @@
         "md5": "660a46631e6397c5380ce589e1431595"
     },
     {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "da321579205f722ffc10d795978f12ab"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "4f10b526f93c21c50bdc571fb8e396c2"
@@ -502,7 +537,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3b53c4fda1090b9a0c7a97b5315f56ba"
+        "md5": "a6d983b17fe6845ffb5f26afea64a131"
     },
     {
         "path": "sitemap.xsl",
@@ -522,6 +557,6 @@
     {
         "path": "tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong.html",
         "type": "file",
-        "md5": "7ceace190fb59db420cd4dc09d571dce"
+        "md5": "095506412a80935c6aaf9b8075a56861"
     }
 ]
