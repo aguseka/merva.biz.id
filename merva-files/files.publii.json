@@ -167,12 +167,12 @@
     {
         "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal.html",
         "type": "file",
-        "md5": "4e2406bf8d9472ed321a702a1153d000"
+        "md5": "da9ce089e53868631c5e5c5a12ac9238"
     },
     {
         "path": "bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja.html",
         "type": "file",
-        "md5": "fe5883ec5b8f554dd0f7b8bc823e9e92"
+        "md5": "b8bf8c856c15515ca5950b8e2d102ae9"
     },
     {
         "path": "e-book.html",
@@ -182,17 +182,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d7590c119026f67144620186ba5070f2"
+        "md5": "828ce7939560cf543c86473e7d019a96"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "43d96515950ba7de31d69b3640f1d9f2"
+        "md5": "07488dbb16d520f30da06a57fa660a66"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4cff3a1e05b5c8aceb446023fb4b8f0b"
+        "md5": "ba43ff3bc12842b18dee7a0aa5d0ad72"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
@@ -253,6 +253,41 @@
         "path": "/media/posts/10/responsive/pexels-pixabay-267350-xs.webp",
         "type": "file",
         "md5": "a832b0e334525d19b4786a62b5c972d0"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/pexels-padrinan-745365.jpg",
+        "type": "file",
+        "md5": "a305ff59bedbf8435c0ac5ec1b7d79d9"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/pexels-padrinan-745365-md.webp",
+        "type": "file",
+        "md5": "b5005000de72d255cc52484782a84e48"
+    },
+    {
+        "path": "/media/posts/13/responsive/pexels-padrinan-745365-sm.webp",
+        "type": "file",
+        "md5": "77ede4e333f8fc1f9eb392aeada34f1e"
+    },
+    {
+        "path": "/media/posts/13/responsive/pexels-padrinan-745365-xl.webp",
+        "type": "file",
+        "md5": "7a2947da80a9e2924eddf8944733f010"
+    },
+    {
+        "path": "/media/posts/13/responsive/pexels-padrinan-745365-xs.webp",
+        "type": "file",
+        "md5": "280bc5e921b76b3034f2e4df73194b8c"
     },
     {
         "path": "media/posts/2",
@@ -537,7 +572,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a6d983b17fe6845ffb5f26afea64a131"
+        "md5": "9265f1a8c7f7d1bcc5d80e0dcdd79992"
     },
     {
         "path": "sitemap.xsl",
@@ -557,6 +592,6 @@
     {
         "path": "tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong.html",
         "type": "file",
-        "md5": "095506412a80935c6aaf9b8075a56861"
+        "md5": "e5b809f6d236b384005d97db4aa6bae6"
     }
 ]
