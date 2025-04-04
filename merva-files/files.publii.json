@@ -2,22 +2,22 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "f6b50d900f6ba39178b08d10c48362b9"
+        "md5": "1e2655a35b17af8fa1acb13a13dc4e09"
     },
     {
         "path": "5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial.html",
         "type": "file",
-        "md5": "a1c7de7ae8b3f458757aea9ee4b1fb2e"
+        "md5": "f73764598ea1beda092c81b25cab13fd"
     },
     {
         "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis.html",
         "type": "file",
-        "md5": "2465d65f6959535ffb7b2ec1442ba907"
+        "md5": "d3da4be1eb355b85ad700f38004db752"
     },
     {
         "path": "about-merva.html",
         "type": "file",
-        "md5": "b3383c010e3fdd0ca617445f168809ba"
+        "md5": "99fa7d857d1ca32b3004a0f53ff90b70"
     },
     {
         "path": "assets",
@@ -147,7 +147,7 @@
     {
         "path": "/authors/eka-maharta/index.html",
         "type": "file",
-        "md5": "d932839c1ca3fc5c24ebbd2c0ac6311c"
+        "md5": "116a710367605da70d4fc99de9888a9d"
     },
     {
         "path": "authors/eka-maharta/page",
@@ -162,27 +162,27 @@
     {
         "path": "/authors/eka-maharta/page/2/index.html",
         "type": "file",
-        "md5": "14255cd78355480fc73f7f44590205ea"
+        "md5": "0741fd678efe1dd05ed81aac7852680f"
     },
     {
         "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal.html",
         "type": "file",
-        "md5": "2d7e1706e1e2468b7b3d7c93728f098c"
+        "md5": "ad9399f0b2b7d18bbb605de2fa974cb0"
     },
     {
         "path": "bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja.html",
         "type": "file",
-        "md5": "162d85c4d06e4333fe0639c33ba37e77"
+        "md5": "dcafc3825c8b6fd5f8bafd69cc2836fc"
     },
     {
         "path": "e-book.html",
         "type": "file",
-        "md5": "b96c36386edd2c5072356035339853cb"
+        "md5": "5cdaf3df11ab09f1dd8e1f672f6f1152"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3bfddfd4364d1122d32c857d0f065add"
+        "md5": "746e263a30dc72ed13498b2d84b5d09f"
     },
     {
         "path": "feed.xml",
@@ -192,22 +192,22 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "896477e7be9252c77f0bb2df39b487b8"
+        "md5": "a96cd2d4922536dee474f5f16665980a"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
         "type": "file",
-        "md5": "7cc0d819a5460c9c3449e13f8daa862e"
+        "md5": "337722d37bc99a74ef28043b8d2025c3"
     },
     {
         "path": "kursus.html",
         "type": "file",
-        "md5": "8b21e750e17145b7dda05eea0c62fa5c"
+        "md5": "690836956b3472064b8d010948339126"
     },
     {
         "path": "layanan-kami.html",
         "type": "file",
-        "md5": "3f8951241327d1554e38810be2a9f473"
+        "md5": "d408daf5763a35eecdc075298eab50df"
     },
     {
         "path": "media",
@@ -570,19 +570,54 @@
         "md5": "12ca1688d4aed3cca0673c6b1ea50536"
     },
     {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/M-removebg-preview.png",
+        "type": "file",
+        "md5": "779bf2bfee7971682f99395d70dbc8e7"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/M-removebg-preview-md.webp",
+        "type": "file",
+        "md5": "c14ff1764a796594b635d5df6faa4f73"
+    },
+    {
+        "path": "/media/website/responsive/M-removebg-preview-sm.webp",
+        "type": "file",
+        "md5": "9081e66c5bebabe8dcab07df5a5839da"
+    },
+    {
+        "path": "/media/website/responsive/M-removebg-preview-xl.webp",
+        "type": "file",
+        "md5": "c14ff1764a796594b635d5df6faa4f73"
+    },
+    {
+        "path": "/media/website/responsive/M-removebg-preview-xs.webp",
+        "type": "file",
+        "md5": "71649ea662ad53ed20277971a9f70aba"
+    },
+    {
         "path": "membuat-website-murah-itu-mungkin-contohnya-blog-ini.html",
         "type": "file",
-        "md5": "687a2529c61feb2bf29476fe1f934c24"
+        "md5": "45696a1469845eddf7e22a7bc8d42938"
     },
     {
         "path": "mengapa-perlu-punya-penghasilan-sampingan.html",
         "type": "file",
-        "md5": "08bbd40f291e6d1c44200ae9afdd47b8"
+        "md5": "c3c0ca317a47af37d2ad7fbabd3dfd4b"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi.html",
         "type": "file",
-        "md5": "44d60ee7821af42d4b831a6025a11040"
+        "md5": "a43263a122d5e061fa966cb4ce733179"
     },
     {
         "path": "page",
@@ -597,7 +632,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "faaff11e8d0f732ceafa3305584e14d2"
+        "md5": "502fd6858e0cfd7af3d0259aa49af517"
     },
     {
         "path": "robots.txt",
@@ -607,7 +642,7 @@
     {
         "path": "sepuluh-software-akuntansi-gratis-nomor-8-bahkan-ada-modul-hrd-nya.html",
         "type": "file",
-        "md5": "8c5c5b8e4722e0aedde3a1489a2d5193"
+        "md5": "a15bd1b77135acd4f782ac0d40351e6e"
     },
     {
         "path": "sitemap.xml",
@@ -627,11 +662,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "2cb722a8029ce4573abf16b1bf49890e"
+        "md5": "5f4440852d215b5b79f4d9044ac9a8d9"
     },
     {
         "path": "tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong.html",
         "type": "file",
-        "md5": "76aed0852aed8b26f851d0c4cd243b6a"
+        "md5": "9d1ff2138188f0463c85e150a3a2c756"
     }
 ]
