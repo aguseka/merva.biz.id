@@ -7,7 +7,7 @@
     {
         "path": "5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial.html",
         "type": "file",
-        "md5": "de6c0710a60405ed786b2474df64261e"
+        "md5": "a1c7de7ae8b3f458757aea9ee4b1fb2e"
     },
     {
         "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis.html",
@@ -182,17 +182,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5e6e7435ad57b5accdb45e5969ffa93b"
+        "md5": "3bfddfd4364d1122d32c857d0f065add"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0f26e8e9e0e0b466cb3b53537ed0e167"
+        "md5": "ed9d50a993cdf8a430b4d7a8fb542421"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "17a0c148c852e6d2eb4a1c93a93a63ae"
+        "md5": "896477e7be9252c77f0bb2df39b487b8"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
@@ -288,6 +288,41 @@
         "path": "/media/posts/13/responsive/pexels-padrinan-745365-xs.webp",
         "type": "file",
         "md5": "280bc5e921b76b3034f2e4df73194b8c"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/pexels-karolina-grabowska-5899215.jpg",
+        "type": "file",
+        "md5": "d36c4ee90b4d59410acb9e3b76005b0e"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/pexels-karolina-grabowska-5899215-md.webp",
+        "type": "file",
+        "md5": "7d234452d25866410ab341d570587fb8"
+    },
+    {
+        "path": "/media/posts/14/responsive/pexels-karolina-grabowska-5899215-sm.webp",
+        "type": "file",
+        "md5": "545a21921189b76f02213a989835679b"
+    },
+    {
+        "path": "/media/posts/14/responsive/pexels-karolina-grabowska-5899215-xl.webp",
+        "type": "file",
+        "md5": "4e37696ef84a79fe7184bc248e400bbe"
+    },
+    {
+        "path": "/media/posts/14/responsive/pexels-karolina-grabowska-5899215-xs.webp",
+        "type": "file",
+        "md5": "955789d7e36712ba86437ed08d1fd326"
     },
     {
         "path": "media/posts/2",
@@ -542,12 +577,7 @@
     {
         "path": "mengapa-perlu-punya-penghasilan-sampingan.html",
         "type": "file",
-        "md5": "3be0c7fccc46de5fa82534ac68b003ab"
-    },
-    {
-        "path": "mengapa-sulit-mencari-klien.html",
-        "type": "file",
-        "md5": "f03071ccc53ef2cd18b46f66dfb5adb0"
+        "md5": "08bbd40f291e6d1c44200ae9afdd47b8"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi.html",
@@ -567,7 +597,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "08160264235fe628cb85cb65ae23fda2"
+        "md5": "faaff11e8d0f732ceafa3305584e14d2"
     },
     {
         "path": "robots.txt",
@@ -582,7 +612,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "00f0e6deb4d0bbf31e88ea8d791c3fb8"
+        "md5": "12b9cc2982ef860ad321b4b64309e6d1"
     },
     {
         "path": "sitemap.xsl",
