@@ -2,22 +2,22 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1e2655a35b17af8fa1acb13a13dc4e09"
+        "md5": "ab60086e96da4bad5e5acdf553396198"
     },
     {
         "path": "5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial.html",
         "type": "file",
-        "md5": "f73764598ea1beda092c81b25cab13fd"
+        "md5": "d5ea60a5f00e5e8b16ef5b39fe8f9274"
     },
     {
         "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis.html",
         "type": "file",
-        "md5": "d3da4be1eb355b85ad700f38004db752"
+        "md5": "3db80101c569c5684886c3bea4d497e6"
     },
     {
         "path": "about-merva.html",
         "type": "file",
-        "md5": "99fa7d857d1ca32b3004a0f53ff90b70"
+        "md5": "57f617c513f423b7e139e8abdc93636d"
     },
     {
         "path": "assets",
@@ -147,7 +147,7 @@
     {
         "path": "/authors/eka-maharta/index.html",
         "type": "file",
-        "md5": "116a710367605da70d4fc99de9888a9d"
+        "md5": "4707c7d50336033ce8cae0b313e5c689"
     },
     {
         "path": "authors/eka-maharta/page",
@@ -162,22 +162,22 @@
     {
         "path": "/authors/eka-maharta/page/2/index.html",
         "type": "file",
-        "md5": "0741fd678efe1dd05ed81aac7852680f"
+        "md5": "5c6192901789a5d1291ac124a20aca93"
     },
     {
         "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal.html",
         "type": "file",
-        "md5": "ad9399f0b2b7d18bbb605de2fa974cb0"
+        "md5": "038815c9460b710405bad1c6c6e11a48"
     },
     {
         "path": "bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja.html",
         "type": "file",
-        "md5": "dcafc3825c8b6fd5f8bafd69cc2836fc"
+        "md5": "f3328c00bf264eca8ec8436258b8d126"
     },
     {
         "path": "e-book.html",
         "type": "file",
-        "md5": "5cdaf3df11ab09f1dd8e1f672f6f1152"
+        "md5": "2ddaa8a0974356e1655a8f7f3ea53a6a"
     },
     {
         "path": "feed.json",
@@ -192,22 +192,17 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a96cd2d4922536dee474f5f16665980a"
+        "md5": "656b0892538bb3607cd2dfeabd1f8852"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
         "type": "file",
-        "md5": "337722d37bc99a74ef28043b8d2025c3"
+        "md5": "d0ad7c790bb4ac60d5260d682cf23f08"
     },
     {
         "path": "kursus.html",
         "type": "file",
-        "md5": "690836956b3472064b8d010948339126"
-    },
-    {
-        "path": "layanan-kami.html",
-        "type": "file",
-        "md5": "41f2fd837da6d724a6a3d9ea5e488a41"
+        "md5": "cc2e7b2664cf11c34e33c372718d4ea2"
     },
     {
         "path": "media",
@@ -607,17 +602,17 @@
     {
         "path": "membuat-website-murah-itu-mungkin-contohnya-blog-ini.html",
         "type": "file",
-        "md5": "45696a1469845eddf7e22a7bc8d42938"
+        "md5": "28cede0d9cb5d04656467311b8ef9bec"
     },
     {
         "path": "mengapa-perlu-punya-penghasilan-sampingan.html",
         "type": "file",
-        "md5": "c3c0ca317a47af37d2ad7fbabd3dfd4b"
+        "md5": "67e78f80e122480c8b2c8613d361e751"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi.html",
         "type": "file",
-        "md5": "a43263a122d5e061fa966cb4ce733179"
+        "md5": "49b7f08185da3aa83895a6c33ca39e24"
     },
     {
         "path": "page",
@@ -632,7 +627,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "502fd6858e0cfd7af3d0259aa49af517"
+        "md5": "c271bf79363df8f8c742611b93fbc0c9"
     },
     {
         "path": "robots.txt",
@@ -642,12 +637,12 @@
     {
         "path": "sepuluh-software-akuntansi-gratis-nomor-8-bahkan-ada-modul-hrd-nya.html",
         "type": "file",
-        "md5": "a15bd1b77135acd4f782ac0d40351e6e"
+        "md5": "030e2eb7eee0ee845ddb2ceeb8029253"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "39e430939ca8101f07abc4903e1b667d"
+        "md5": "505829535fe02b5c4fb423f4a49c0be4"
     },
     {
         "path": "sitemap.xsl",
@@ -662,11 +657,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "5f4440852d215b5b79f4d9044ac9a8d9"
+        "md5": "05bf7623acf05777e3001fc72279bbae"
     },
     {
         "path": "tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong.html",
         "type": "file",
-        "md5": "9d1ff2138188f0463c85e150a3a2c756"
+        "md5": "8a2be422e49df5a89e52fad449909e76"
+    },
+    {
+        "path": "tentang-merva.html",
+        "type": "file",
+        "md5": "a008c5b37ece0c7ae8134331abad112d"
     }
 ]
