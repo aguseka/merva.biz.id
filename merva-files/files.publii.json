@@ -7,17 +7,17 @@
     {
         "path": "5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial.html",
         "type": "file",
-        "md5": "7782c6b0b7f56ad08d79b68267b53cd7"
+        "md5": "de6c0710a60405ed786b2474df64261e"
     },
     {
         "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis.html",
         "type": "file",
-        "md5": "79f25b26d3366961b44c54fb8d6caeb6"
+        "md5": "2465d65f6959535ffb7b2ec1442ba907"
     },
     {
         "path": "about-merva.html",
         "type": "file",
-        "md5": "59cd048af56f906b1b62309df7f45a72"
+        "md5": "b3383c010e3fdd0ca617445f168809ba"
     },
     {
         "path": "assets",
@@ -167,47 +167,47 @@
     {
         "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal.html",
         "type": "file",
-        "md5": "da9ce089e53868631c5e5c5a12ac9238"
+        "md5": "2d7e1706e1e2468b7b3d7c93728f098c"
     },
     {
         "path": "bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja.html",
         "type": "file",
-        "md5": "b8bf8c856c15515ca5950b8e2d102ae9"
+        "md5": "162d85c4d06e4333fe0639c33ba37e77"
     },
     {
         "path": "e-book.html",
         "type": "file",
-        "md5": "1938d70b4a1bc5d641cb639b1754255e"
+        "md5": "b96c36386edd2c5072356035339853cb"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "828ce7939560cf543c86473e7d019a96"
+        "md5": "5e6e7435ad57b5accdb45e5969ffa93b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "07488dbb16d520f30da06a57fa660a66"
+        "md5": "0f26e8e9e0e0b466cb3b53537ed0e167"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ba43ff3bc12842b18dee7a0aa5d0ad72"
+        "md5": "17a0c148c852e6d2eb4a1c93a93a63ae"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib.html",
         "type": "file",
-        "md5": "e2249578edeb8c0dce4c793fec330f53"
+        "md5": "7cc0d819a5460c9c3449e13f8daa862e"
     },
     {
         "path": "kursus.html",
         "type": "file",
-        "md5": "0f1d2c61e174200765c6e01209f019f6"
+        "md5": "8b21e750e17145b7dda05eea0c62fa5c"
     },
     {
         "path": "layanan-kami.html",
         "type": "file",
-        "md5": "bcb4a0d5e50101d8d5e66697175d5750"
+        "md5": "3f8951241327d1554e38810be2a9f473"
     },
     {
         "path": "media",
@@ -537,12 +537,22 @@
     {
         "path": "membuat-website-murah-itu-mungkin-contohnya-blog-ini.html",
         "type": "file",
-        "md5": "55dd1b0a3679ada3ad2cc274eaac239f"
+        "md5": "687a2529c61feb2bf29476fe1f934c24"
+    },
+    {
+        "path": "mengapa-perlu-punya-penghasilan-sampingan.html",
+        "type": "file",
+        "md5": "3be0c7fccc46de5fa82534ac68b003ab"
+    },
+    {
+        "path": "mengapa-sulit-mencari-klien.html",
+        "type": "file",
+        "md5": "f03071ccc53ef2cd18b46f66dfb5adb0"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi.html",
         "type": "file",
-        "md5": "660a46631e6397c5380ce589e1431595"
+        "md5": "44d60ee7821af42d4b831a6025a11040"
     },
     {
         "path": "page",
@@ -557,7 +567,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "da321579205f722ffc10d795978f12ab"
+        "md5": "08160264235fe628cb85cb65ae23fda2"
     },
     {
         "path": "robots.txt",
@@ -567,12 +577,12 @@
     {
         "path": "sepuluh-software-akuntansi-gratis-nomor-8-bahkan-ada-modul-hrd-nya.html",
         "type": "file",
-        "md5": "c07f37d454dde8b8c4c8cf5b7892d24d"
+        "md5": "8c5c5b8e4722e0aedde3a1489a2d5193"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9265f1a8c7f7d1bcc5d80e0dcdd79992"
+        "md5": "00f0e6deb4d0bbf31e88ea8d791c3fb8"
     },
     {
         "path": "sitemap.xsl",
@@ -592,6 +602,6 @@
     {
         "path": "tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong.html",
         "type": "file",
-        "md5": "e5b809f6d236b384005d97db4aa6bae6"
+        "md5": "76aed0852aed8b26f851d0c4cd243b6a"
     }
 ]
