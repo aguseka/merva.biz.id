@@ -187,7 +187,7 @@
     {
         "path": "/bagaimana-caranya-membangun-bisnis-tanpa-modal/index.html",
         "type": "file",
-        "md5": "94b4a00953b0d4924f7045307172c4fd"
+        "md5": "31f279b175f611d7243d62966cbd8282"
     },
     {
         "path": "bagaimana-memulai-usaha-dengan-modal-kecil-dan-tak-ribet",
@@ -210,6 +210,16 @@
         "md5": "7ec7d0bf1e1e63061346f0b79ee277f1"
     },
     {
+        "path": "begini-caranya-agar-disiplin",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/begini-caranya-agar-disiplin/index.html",
+        "type": "file",
+        "md5": "4a4f1ff084f59ea0ecc520c88866388a"
+    },
+    {
         "path": "e-book",
         "type": "directory",
         "md5": false
@@ -222,12 +232,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4145f28a7753e6cc94d1af53451b2e80"
+        "md5": "88916634c7df69fea91b6dd2e935b29b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "54cf9b7de0a31285d778677b75639534"
+        "md5": "67ec1e5af857f0597a1365b4d7f2fa14"
     },
     {
         "path": "hubungi-kami",
@@ -242,7 +252,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "fa20483a2087c59cf1e4f270ee4deb56"
+        "md5": "1f16951d06888c491a8ca9a2f34d4e8f"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib",
@@ -413,6 +423,41 @@
         "path": "/media/posts/2/responsive/pexels-mikael-blomkvist-6476584-xs.webp",
         "type": "file",
         "md5": "c0b15cde6751511332fe2b3b5788711f"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/pexels-pixabay-163351.jpg",
+        "type": "file",
+        "md5": "a7c6f2f927f76a17f6a48d05a5ce809b"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/pexels-pixabay-163351-md.webp",
+        "type": "file",
+        "md5": "c51645a5efd50899e06c8d335db64cc4"
+    },
+    {
+        "path": "/media/posts/21/responsive/pexels-pixabay-163351-sm.webp",
+        "type": "file",
+        "md5": "3d4422cf47fdaece0f34f48149c85047"
+    },
+    {
+        "path": "/media/posts/21/responsive/pexels-pixabay-163351-xl.webp",
+        "type": "file",
+        "md5": "8eae3cf36d934cd6e9794a3d9c7ea2f4"
+    },
+    {
+        "path": "/media/posts/21/responsive/pexels-pixabay-163351-xs.webp",
+        "type": "file",
+        "md5": "698dc24c7e2d4686cb699cced7fa21b2"
     },
     {
         "path": "media/posts/23",
@@ -822,7 +867,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "6c66bac73e021bd5cbab16cf064d144a"
+        "md5": "b2f6f671d97d53cc7a76ed705decf554"
     },
     {
         "path": "robots.txt",
@@ -842,7 +887,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1c739cfeee81d91872c2cbb40b32ca69"
+        "md5": "80a0bcdef6991fa1b41744b92f603eb8"
     },
     {
         "path": "sitemap.xsl",
