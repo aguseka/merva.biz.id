@@ -3,12 +3,60 @@
     <title>Merva</title>
     <link href="https://merva.biz.id/feed.xml" rel="self" />
     <link href="https://merva.biz.id" />
-    <updated>2025-04-08T10:58:24+07:00</updated>
+    <updated>2025-04-09T06:27:25+07:00</updated>
     <author>
         <name>Eka Maharta</name>
     </author>
     <id>https://merva.biz.id</id>
 
+    <entry>
+        <title>7 Hosting  untuk Bikin Website Gratis (Bisa Pakai Domain Sendiri)</title>
+        <author>
+            <name>Eka Maharta</name>
+        </author>
+        <link href="https://merva.biz.id/7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri/"/>
+        <id>https://merva.biz.id/7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri/</id>
+
+        <updated>2025-04-07T08:06:27+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Bikin website mahal? Anda tidak salah. Sebagai seorang praktisi dibidang aplikasi web,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bikin website mahal? Anda tidak salah. Sebagai seorang praktisi dibidang aplikasi web, saya sangat paham mengapa sebuah aplikasi web itu bisa mahal. Tapi secara umum ada 2 hal yang membuat sebuah website bisa mahal inilah dia:</p>
+<h2>Inilah 2 hal penyebab sebuah website bisa mahal</h2>
+<h3>1. Teknologi web memang sangat kompleks.</h3>
+<p>Saya bisa menjelaskan teknologi atau "daleman" sebuah website dengan sangat rinci. Tapi bukan itu tujuan artikel ini atau bahkan blog ini. Karena pembaca yang awam teknologi akan pusing dengan semua istilahnya. Tapi secara umum sebuah website memiliki  minimal 8 lapisan teknologi. Bertumpuk satu sama lain diluar fisik ataupun virtual server komputer</p>
+<p>Ini mulai dari sistem operasi(Linux/Windows). Web server(Apache/Nginx). Bahasa pemrograman web(PHP/Python). Framework pemrograman(Laravel/Django). Database(PostgreSQL/MySQL). Tampilan (HTML). Estetika website (CSS). Interaktifitas website (Javascript). Ini semua diluar aspek desain dari website seperti foto, video, layout, dan tulisan. Selesai? Belum! Masih ada aspek Search Engine Optimization, desain, foto-video, <em>copy writng,</em> (SEO) dan keamanan website itu sendiri. </p>
+<p>Semua hal diatas tentu membentuk sebuah harga. Semakin kompleks fitur sebuah website, harganya pasti lebih mahal. Karena ada tambahan komponen biaya tenaga ahli yang harus dibayar. Dan ini belum termasuk nilai dari tingkat keahlian seorang desainer web, yang bisa sangat mahal. Selain pastinya biaya programer. Kompleksitas inilah yang sering tak dipahami oleh pengguna awam. Ini merupakan penyebab nomor 2 kenapa website itu bisa mahal.</p>
+<h3>2.  Kesenjangan pemahaman akan teknologi.</h3>
+<p>Pengguna awam seringkali mengacu kepada perusahaan-perusahaan raksasa dalam pembuatan websitenya. Tentu ini tak salah. Bedanya adalah: pertama, perusahaan raksasa cenderung membuat website dengan teknologi eksklusif hanya untuk mereka sendiri. Kedua, seringkali menggunakan jasa desainer web terbaik. Sedangkan ketiga, perusahaan raksasa tak jarang memiliki fitur yang kompleks dalam websitenya. Keempat, adalah sangat normal perusahaan besar menggunakan jasa <em>copy writer</em> terbaik. Kelima perusahaan raksasa biasanya membuat website dengan menggunakan foto-foto atau video berkualitas tinggi secara eksklusif karya seseorang profesional. Ini bisa sangat mahal. Kombinasi dari 5 hal ini pasti membuat website menjadi amat sangat mahal.  Mau tiru mereka? Ya jelas mahal!</p>
+<p>Nah, jika anda baru saja memulai usaha sendiri. Lalu ingin punya sebuah website untuk identitas perusahaan. Sedangkan masih bekerja sebagai pegawai, dengan modal terbatas. Apakah ini semua diperlukan? Jawabannya: TIDAK!  Pertama, anda tak butuh teknologi eksklusif. Cukup berbagi teknologi  dengan banyak pemakai lainnya. Kedua anda tak butuh jasa desainer web terbaik dunia, gunakan saja template website  yang tersedia gratis. Ketiga anda tak butuh fitur yang rumit dalam website seperti ecommerce dan payment gateway. Cukup koneksikan ke WhatsApp. Keempat anda tak butuh jasa <em>copy writer</em> termahal. Gunakan saja jasa AI dengan sedikit modifikasi. Kelima tak perlu fotograger eksklusif. Anda bisa menggunakan ribuan foto-foto bebas hak cipta yang berterbaran di internet dan hasil foto sendiri. Hasilnya? Website anda bisa bagus, murah, dan bahkan gratis!</p>
+<p>Tapi dari semua hal diatas, ada satu hal terpenting yang berpengaruh dalam harga sebuah website. Yaitu hosting. Ini adalah kombinasi dari 8 aspek teknologi yang saya sebutkan sebelumnya. Kalaupun biaya yang lain bisa gratis, hosting tetap harus dibayar. Teknologi hosting memerlukan alokasi khusus pada server untuk tiap-tiap website.  Sehingga suatu website bisa tampil dengan baik. Jadi ada harga khusus untuk ini. Semuanya bersifat ekslusif walapun dalam porsi yang sangat kecil agar terjangkau.</p>
+<p>Tapi kini hadir teknologi terbaru. Syukurnya teknologi ini bersifat terbuka. Artinya bisa dipakai oleh siapapun secara bersama-sama tanpa biaya. Teknologi ini disebut Jamstack. Jamstack menggunakan sumberdaya server yang amat sangat kecil, ringan, dan juga sangat aman. Jamstack memungkinkan sumberdaya dari satu server bisa dipakai oleh sangat banyak orang. Walaupun begitu website tetap baik dan stabil. Karena itu banyak perusahaan yang memberikan jasa hosting Jamstack secara gratis. Nah, ini 5 diantaranya. </p>
+<h2>Daftar penyedia hosting Jamstack gratis.</h2>
+<p> </p>
+<h3><strong>1. Netlify</strong></h3>
+<p>Netlify adalah salah satu penyedia layanan Jamstack paling terkenal dan banyak digunakan. Platform ini sangat ramah bagi developer, dengan proses deploy yang mudah cukup melalui Git. Netlify juga menyediakan fitur custom domain gratis, sertifikat SSL otomatis, dan sistem continuous deployment. Semua itu tersedia dalam paket gratis yang sangat lengkap—dan menurut informasi saat tulisan ini dibuat, layanan gratisnya berlaku selamanya.</p>
+<h3><strong>2. Vercel</strong></h3>
+<p>Vercel adalah pesaing utama Netlify dalam dunia Jamstack. Platform ini terkenal karena kecepatan dan kemudahannya, terutama untuk developer yang menggunakan Next.js — karena memang dibuat oleh tim yang sama. Vercel juga menawarkan hosting gratis dengan fitur yang cukup lengkap, termasuk custom domain, SSL otomatis, dan deployment dari Git. Sangat cocok bagi Anda yang ingin membangun website modern dengan performa tinggi.</p>
+<h3><strong>3. Render</strong></h3>
+<p>Render mungkin belum sepopuler Netlify atau Vercel, tapi jangan diremehkan. Layanan ini mendukung Jamstack dengan baik, dan bahkan memberikan lebih banyak fleksibilitas bagi pengguna yang butuh backend tambahan seperti database atau server API. Untuk hosting statis, Render memberikan plan gratis juga, termasuk custom domain dan HTTPS. Proses deploy-nya juga cukup mudah, tinggal hubungkan dengan Git dan siap digunakan.</p>
+<h3><strong>4. Surge</strong></h3>
+<p>Surge adalah opsi yang sangat minimalis dan cepat untuk kebutuhan hosting statis. Tidak perlu dashboard rumit—semua cukup lewat command line. Cocok untuk developer yang suka kesederhanaan. Versi gratisnya juga lumayan kuat, dan Anda bisa langsung menggunakan custom domain tanpa biaya. Namun, fiturnya tidak sebanyak Netlify atau Vercel, jadi cocok untuk proyek kecil atau personal.</p>
+<h3><strong>5. Cloudflare Pages</strong></h3>
+<p>Cloudflare Pages merupakan pemain baru di dunia Jamstack, tapi langsung menarik perhatian karena performa jaringan CDN mereka yang sangat luas. Dengan Pages, Anda bisa hosting website statis langsung dari GitHub dan merasakan kecepatan loading yang luar biasa, terutama bagi pengunjung dari berbagai belahan dunia. Tentu saja, semua ini gratis—dan sudah termasuk SSL serta custom domain.</p>
+<h3><strong>6. GitHub Pages</strong></h3>
+<p>GitHub Pages adalah pilihan klasik dan terpercaya, terutama untuk developer yang sudah terbiasa menyimpan proyek di GitHub. Dengan GitHub Pages, anda bisa hosting website statis langsung dari repository GitHub. Gratis, cepat, dan sangat cocok untuk dokumentasi, portfolio, atau blog pribadi. Sayangnya, belum mendukung build otomatis seperti Netlify atau Vercel, jadi biasanya  perlu generate file statis-nya sendiri (misalnya pakai Jekyll atau build tool lainnya).</p>
+<h3><strong>7.  Firebase Hosting</strong></h3>
+<p>Firebase, produk dari Google, juga punya layanan hosting statis yang powerful. Firebase Hosting mendukung HTTPS, custom domain, dan punya kecepatan tinggi karena memakai infrastruktur Google. Meski lebih sering dipakai untuk aplikasi web dengan backend, Firebase juga cocok untuk proyek Jamstack yang membutuhkan integrasi dengan fitur-fitur tambahan seperti database real-time atau authentication. Plan gratisnya cukup dermawan dan bisa jadi pilihan jika kamu sudah akrab dengan ekosistem Google.</p>
+<p>Nah itulah 7 penyedia hosting Jamstack gratis. Dengan menggunakan layanan mereka anda bisa membuat sebuah website yang keren, ringan, cepat, stabil, aman, dan juga gratis. Mau contoh? <strong>Website yang sedang anda lihat ini adalah contohnya!</strong></p>
+<p>Lalu bagaimana caranya agar anda juga bisa, bahkan tanpa koding sama sekali? Bisa? Ya, bisa! Percayalah, karena saya membangun website ini 100% tanpa koding. Saya akan ajarkan caranya. Klik link ini sekarang. Saya akan bagikan rahasianya.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Inilah 4 Jenis Produk Digital yang Cepat Bikin Cuan</title>
         <author>
@@ -436,49 +484,6 @@
 <p><br>Menjadi agen asuransi adalah opsi lain untuk memasuki dunia bisnis tanpa modal besar. Bergabung dengan perusahaan asuransi yang menawarkan program afiliasi atau komisi yang menguntungkan dapat menjadi langkah awal. Pemasaran online dan offline dapat membantu Anda membangun reputasi dan mendapatkan klien tanpa harus mengeluarkan biaya besar untuk promosi.</p>
 <p><br>Memulai bisnis tanpa modal memang menantang, tetapi dengan kreativitas dan tekad, hal itu bisa dicapai. Kelima model bisnis di atas menawarkan peluang tanpa harus mengeluarkan modal besar. Penting untuk memiliki fokus, konsistensi, dan kemampuan untuk belajar dan beradaptasi dengan perubahan pasar. Dengan strategi yang tepat, Anda dapat mencapai kesuksesan dalam menjalankan bisnis tanpa modal besar. Ingatlah bahwa proses ini membutuhkan waktu, dan kesabaran adalah kunci untuk meraih hasil yang memuaskan.</p>
 <p><br><a href="https://www.pexels.com/photo/coffee-shop-702251/">Photo by Afta Putta Gunawan</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sepuluh Software Akuntansi Gratis. Nomor 8 Bahkan Ada Modul HRD-nya!</title>
-        <author>
-            <name>Eka Maharta</name>
-        </author>
-        <link href="https://merva.biz.id/sepuluh-software-akuntansi-gratis-nomor-8-bahkan-ada-modul-hrd-nya/"/>
-        <id>https://merva.biz.id/sepuluh-software-akuntansi-gratis-nomor-8-bahkan-ada-modul-hrd-nya/</id>
-        <media:content url="https://merva.biz.id/media/posts/7/pexels-karolina-grabowska-4386373.jpg" medium="image" />
-
-        <updated>2024-12-07T13:52:22+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://merva.biz.id/media/posts/7/pexels-karolina-grabowska-4386373.jpg" alt="Image of accounting" />
-                    Software akuntansi merupakan salah satu perangkat lunak yang penting bagi setiap bisnis,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://merva.biz.id/media/posts/7/pexels-karolina-grabowska-4386373.jpg" class="type:primaryImage" alt="Image of accounting" /></p>
-                <p><br>Software akuntansi merupakan salah satu perangkat lunak yang penting bagi setiap bisnis, baik besar maupun kecil. Software ini dapat membantu bisnis dalam melacak transaksi keuangan, membuat laporan keuangan, dan mengelola pajak.<br><br>Saat ini, terdapat berbagai macam software akuntansi yang tersedia di pasaran. Salah satu jenis software akuntansi yang semakin populer adalah software akuntansi berbasis open source. Software ini menawarkan berbagai keunggulan, seperti gratis, dapat disesuaikan, dan memiliki komunitas pengguna yang aktif.<br><br>Berikut adalah 10 software akuntansi berbasis open source terbaik untuk bisnis:</p>
-<h2><br>1. GnuCash</h2>
-<p><br>GnuCash adalah software akuntansi open source yang populer untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan manajemen aset. GnuCash juga tersedia dalam berbagai bahasa, termasuk bahasa Indonesia.</p>
-<h2><br>2. LedgerSMB</h2>
-<p><br>LedgerSMB adalah software akuntansi open source berbasis web yang ditujukan untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan integrasi dengan peralatan POS. LedgerSMB juga memiliki antarmuka yang ramah pengguna.</p>
-<h2><br>3. Manager</h2>
-<p><br>Manager adalah software akuntansi open source yang populer untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan manajemen aset. Manager juga memiliki antarmuka yang fleksibel dan dapat disesuaikan.</p>
-<h2><br>4. Money Manager Ex</h2>
-<p><br>Money Manager Ex adalah software akuntansi open source yang populer untuk pengguna pribadi. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan manajemen anggaran. Money Manager Ex juga memiliki antarmuka yang sederhana dan mudah digunakan.</p>
-<h2><br>5. VT Cashbook</h2>
-<p><br>VT Cashbook adalah software akuntansi open source yang populer untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan manajemen inventaris. VT Cashbook juga memiliki antarmuka yang ramah pengguna.</p>
-<h2><br>6. Pandle</h2>
-<p><br>Pandle adalah software akuntansi open source berbasis web yang ditujukan untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan integrasi dengan peralatan POS. Pandle juga memiliki antarmuka yang minimalis dan modern.</p>
-<h2><br>7. Slick Pie</h2>
-<p><br>Slick Pie adalah software akuntansi open source berbasis web yang ditujukan untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan integrasi dengan alat manajemen proyek. Slick Pie juga memiliki antarmuka yang fleksibel dan dapat disesuaikan.</p>
-<h2><br>8. Frappe Books</h2>
-<p><br>Frappe Books adalah software akuntansi open source berbasis web yang ditujukan untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan integrasi dengan alat manajemen pelanggan. Frappe Books juga memiliki antarmuka yang modern dan responsif.<br><br>Frappe books juga bisa disatukan secara otomatis dengan ERPNext. Sedangkan ERPNext memiliki modul yang amat sangat lengkap, mulai dari aplikasi pergudangan, HRD, hingga pemasaran. Dan semuanya bisa digunakan secara opensource alias gratis.</p>
-<h2><br>9. Openmiracle</h2>
-<p><br>Openmiracle adalah software akuntansi open source berbasis web yang ditujukan untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan integrasi dengan alat manajemen inventaris. Openmiracle juga memiliki antarmuka yang sederhana dan mudah digunakan.</p>
-<h2><br>10. FrontAccounting</h2>
-<p><br>FrontAccounting adalah software akuntansi open source berbasis web yang ditujukan untuk bisnis kecil dan menengah. Software ini menawarkan berbagai fitur, seperti pelacakan transaksi keuangan, pembuatan laporan keuangan, dan integrasi dengan alat manajemen proyek. FrontAccounting juga memiliki antarmuka yang fleksibel dan dapat disesuaikan.<br><br>Pilih Software Akuntansi Berbasis Open Source yang Tepat<br><br>Dalam memilih software akuntansi berbasis open source, ada beberapa hal yang perlu diperhatikan, yaitu:<br><br>Kebutuhan bisnis<br><br>Pertama, tentukan kebutuhan bisnis Anda. Apa saja fitur yang dibutuhkan? Berapa banyak pengguna yang akan menggunakan software tersebut?<br><br>Tingkat kompleksitas bisnis<br><br>Jika bisnis Anda memiliki transaksi keuangan yang kompleks, maka Anda membutuhkan software akuntansi yang memiliki fitur yang lengkap.<br><br>Tingkat pengetahuan teknis<br><br>Jika Anda memiliki pengetahuan teknis yang terbatas, maka pilihlah software akuntansi yang mudah digunakan.<br><br>Komunitas pengguna<br><br>Lihatlah komunitas pengguna software akuntansi tersebut. Apakah komunitasnya aktif dan responsif?<br><br>Setelah mempertimbangkan faktor-faktor tersebut, Anda dapat mulai membandingkan berbagai software akuntansi berbasis open source yang tersedia. Anda dapat mencoba versi demo atau meminta demo langsung dari pengembang software tersebut.<br><br>Software akuntansi berbasis open source merupakan pilihan yang tepat untuk bisnis yang ingin menghemat biaya, mendapatkan fitur yang lengkap, dan memiliki fleksibilitas.<br><br><a href="kaboompics.com: https://www.pexels.com/photo/calculator-and-notepad-placed-over-stack-of-paper-bills-4386373/">Image Credit: Pixabay</a></p>
             ]]>
         </content>
     </entry>

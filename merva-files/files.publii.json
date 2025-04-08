@@ -12,7 +12,17 @@
     {
         "path": "/5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial/index.html",
         "type": "file",
-        "md5": "d6ef8d46b45308ab025d048199c1a374"
+        "md5": "327414d77468b485f3a6e893d1077f24"
+    },
+    {
+        "path": "7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri/index.html",
+        "type": "file",
+        "md5": "60d1a06c5f2081320a59b37e87518a5a"
     },
     {
         "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis",
@@ -22,7 +32,7 @@
     {
         "path": "/7-situs-terbaik-untuk-membuat-website-murah-atau-gratis/index.html",
         "type": "file",
-        "md5": "45374d6f273459ea60093b77d3902a44"
+        "md5": "52158e74a1dda7f058820c4836ccc792"
     },
     {
         "path": "assets",
@@ -177,7 +187,7 @@
     {
         "path": "/bagaimana-biar-bisa-konsisten/index.html",
         "type": "file",
-        "md5": "ac86b0c679d7dac10c0a6af9efa4cd66"
+        "md5": "28517a5319d356be7f4a4453d3f9f844"
     },
     {
         "path": "bagaimana-caranya-membangun-bisnis-tanpa-modal",
@@ -232,12 +242,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "26ea24ac05f66beb3bfedf6cfb882d70"
+        "md5": "a11c71eca4568aa972c6256ba3686fbc"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d4c7ab9be3f002b07fa81f4d0e588dcb"
+        "md5": "dff434e43457ddc928f71b88df3212eb"
     },
     {
         "path": "hubungi-kami",
@@ -252,7 +262,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a0b87d3a264d4667801da5e70d9571ae"
+        "md5": "d98556b80b60b1335d2b0efad045f4c8"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -262,7 +272,7 @@
     {
         "path": "/inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan/index.html",
         "type": "file",
-        "md5": "ae693b0f67297b6c0028f2b5e5c7ecc3"
+        "md5": "412d7d81d4c31d0523764166baec425e"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib",
@@ -877,7 +887,7 @@
     {
         "path": "/membuat-website-murah-itu-mungkin-contohnya-blog-ini/index.html",
         "type": "file",
-        "md5": "1dd3eed04d000918a8216c8e1602b070"
+        "md5": "d56c0859edab95d97ff6c74030500d8e"
     },
     {
         "path": "mengapa-perlu-punya-penghasilan-sampingan",
@@ -912,7 +922,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "435e82a2f30189197054695b78eeb9e4"
+        "md5": "321552843dfd8b48c2dc4050ddeaae4c"
     },
     {
         "path": "robots.txt",
@@ -932,7 +942,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "24faf4a98c4876dd2612b2ab5296dff4"
+        "md5": "5e4355c11d2788757e41343998ff9fe0"
     },
     {
         "path": "sitemap.xsl",
