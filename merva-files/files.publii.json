@@ -232,12 +232,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "88916634c7df69fea91b6dd2e935b29b"
+        "md5": "2bb34ca977579579199a62972b323d2f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "67ec1e5af857f0597a1365b4d7f2fa14"
+        "md5": "30bb8b76e6f41fbe7f400788c3298519"
     },
     {
         "path": "hubungi-kami",
@@ -252,7 +252,17 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1f16951d06888c491a8ca9a2f34d4e8f"
+        "md5": "db28b3876ddea1f0e9ec2b18e6423aa4"
+    },
+    {
+        "path": "inilah-4-jenis-produk-digital",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/inilah-4-jenis-produk-digital/index.html",
+        "type": "file",
+        "md5": "195ad54698110d24935b5c4b9e5f54ca"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib",
@@ -262,7 +272,7 @@
     {
         "path": "/inilah-langkah-pertama-memulai-usaha-5-mindset-wajib/index.html",
         "type": "file",
-        "md5": "615da325cce0baca2a644f3be9807d3b"
+        "md5": "3f6e9e4da0f060607707ab49bbd0d0d4"
     },
     {
         "path": "kursus",
@@ -528,6 +538,41 @@
         "path": "/media/posts/24/responsive/pexels-leeloothefirst-5238670-xs.webp",
         "type": "file",
         "md5": "dfe7dd498abead292ee9a5ac7c2d0f9e"
+    },
+    {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/pexels-markusspiske-1089438.jpg",
+        "type": "file",
+        "md5": "c342ae2e536ccd9802d944862d6ad11c"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/pexels-markusspiske-1089438-md.webp",
+        "type": "file",
+        "md5": "c79ee3b8d58f637b1ca6d38275b4172d"
+    },
+    {
+        "path": "/media/posts/25/responsive/pexels-markusspiske-1089438-sm.webp",
+        "type": "file",
+        "md5": "0b5e66a1b9b8e3275252100c0f8b6be1"
+    },
+    {
+        "path": "/media/posts/25/responsive/pexels-markusspiske-1089438-xl.webp",
+        "type": "file",
+        "md5": "9f0301eddb512979b56e028c0720e5f2"
+    },
+    {
+        "path": "/media/posts/25/responsive/pexels-markusspiske-1089438-xs.webp",
+        "type": "file",
+        "md5": "4818bbb13a4cd482707a6bf2256d18fe"
     },
     {
         "path": "media/posts/4",
@@ -867,7 +912,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b2f6f671d97d53cc7a76ed705decf554"
+        "md5": "42b9d9fed8424ad317341e1d0d7eb9bb"
     },
     {
         "path": "robots.txt",
@@ -887,7 +932,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "80a0bcdef6991fa1b41744b92f603eb8"
+        "md5": "59048b896554c4cf06c4a5c4704a32e1"
     },
     {
         "path": "sitemap.xsl",
