@@ -12,7 +12,7 @@
     {
         "path": "/5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial/index.html",
         "type": "file",
-        "md5": "327414d77468b485f3a6e893d1077f24"
+        "md5": "fb7ea8673fb9aff16f26894cd497e517"
     },
     {
         "path": "7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri",
@@ -242,12 +242,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a11c71eca4568aa972c6256ba3686fbc"
+        "md5": "a5059677964cd2cc41ba9244642ca20b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "dff434e43457ddc928f71b88df3212eb"
+        "md5": "3c4896ceb04524bdd0f5aeee30f10eaf"
     },
     {
         "path": "hubungi-kami",
@@ -262,7 +262,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d98556b80b60b1335d2b0efad045f4c8"
+        "md5": "d8280eed4b64c9e89927250d5b275c2b"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -272,7 +272,7 @@
     {
         "path": "/inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan/index.html",
         "type": "file",
-        "md5": "412d7d81d4c31d0523764166baec425e"
+        "md5": "128f51ee408cd2e54be17cf78b324508"
     },
     {
         "path": "inilah-langkah-pertama-memulai-usaha-5-mindset-wajib",
@@ -443,6 +443,41 @@
         "path": "/media/posts/2/responsive/pexels-mikael-blomkvist-6476584-xs.webp",
         "type": "file",
         "md5": "c0b15cde6751511332fe2b3b5788711f"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/pexels-mikhail-nilov-6620426.jpg",
+        "type": "file",
+        "md5": "3b0f57fe8c709b1a25367f9a3a9b9128"
+    },
+    {
+        "path": "media/posts/20/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/responsive/pexels-mikhail-nilov-6620426-md.webp",
+        "type": "file",
+        "md5": "59997e13161eff9998ef8ece583ef236"
+    },
+    {
+        "path": "/media/posts/20/responsive/pexels-mikhail-nilov-6620426-sm.webp",
+        "type": "file",
+        "md5": "5294e7038432a62c20bd9947814ef259"
+    },
+    {
+        "path": "/media/posts/20/responsive/pexels-mikhail-nilov-6620426-xl.webp",
+        "type": "file",
+        "md5": "2f3daae67717cb7573d2cf1661ce5880"
+    },
+    {
+        "path": "/media/posts/20/responsive/pexels-mikhail-nilov-6620426-xs.webp",
+        "type": "file",
+        "md5": "0caa61a6dc23fe47b1f1964770499e79"
     },
     {
         "path": "media/posts/21",
@@ -897,7 +932,17 @@
     {
         "path": "/mengapa-perlu-punya-penghasilan-sampingan/index.html",
         "type": "file",
-        "md5": "42db81da1636676b83ebede0d0b5f7f2"
+        "md5": "1e267710127dc91078685b4db93ccf89"
+    },
+    {
+        "path": "mengapa-produk-dan-pasar-itu-perlu-fokus",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mengapa-produk-dan-pasar-itu-perlu-fokus/index.html",
+        "type": "file",
+        "md5": "fa9f90bc8ff6cdd70c1015bb1a123bab"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi",
@@ -922,7 +967,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "321552843dfd8b48c2dc4050ddeaae4c"
+        "md5": "a7a9ee4be258c01074d63e4107c46fd1"
     },
     {
         "path": "robots.txt",
@@ -942,7 +987,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5e4355c11d2788757e41343998ff9fe0"
+        "md5": "21023feabed3e489fc9cf89ab2c64f61"
     },
     {
         "path": "sitemap.xsl",
@@ -967,7 +1012,7 @@
     {
         "path": "/tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong/index.html",
         "type": "file",
-        "md5": "ec7a85b79f61381f3b71a2dc916f43cc"
+        "md5": "ac2212e3d96ea75db4ad68141c0abde1"
     },
     {
         "path": "tentang-merva",
