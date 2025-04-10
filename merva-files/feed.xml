@@ -3,7 +3,7 @@
     <title>Merva</title>
     <link href="https://merva.biz.id/feed.xml" rel="self" />
     <link href="https://merva.biz.id" />
-    <updated>2025-04-10T06:49:56+07:00</updated>
+    <updated>2025-04-10T08:32:28+07:00</updated>
     <author>
         <name>Eka Maharta</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://merva.biz.id/7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri/"/>
         <id>https://merva.biz.id/7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri/</id>
+        <media:content url="https://merva.biz.id/media/posts/26/pexels-pixabay-461073.jpg" medium="image" />
 
         <updated>2025-04-07T08:06:27+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://merva.biz.id/media/posts/26/pexels-pixabay-461073.jpg" alt="Photo sebuah website" />
                     Bikin website mahal? Anda tidak salah. Sebagai seorang praktisi dibidang aplikasi web,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://merva.biz.id/media/posts/26/pexels-pixabay-461073.jpg" class="type:primaryImage" alt="Photo sebuah website" /></p>
                 <p>Bikin website mahal? Anda tidak salah. Sebagai seorang praktisi dibidang aplikasi web, saya sangat paham mengapa sebuah aplikasi web itu bisa mahal. Tapi secara umum ada 2 hal yang membuat sebuah website bisa mahal inilah dia:</p>
 <h2>Inilah 2 hal penyebab sebuah website bisa mahal</h2>
 <h3>1. Teknologi web memang sangat kompleks.</h3>
@@ -54,6 +57,8 @@
 <p>Firebase, produk dari Google, juga punya layanan hosting statis yang powerful. Firebase Hosting mendukung HTTPS, custom domain, dan punya kecepatan tinggi karena memakai infrastruktur Google. Meski lebih sering dipakai untuk aplikasi web dengan backend, Firebase juga cocok untuk proyek Jamstack yang membutuhkan integrasi dengan fitur-fitur tambahan seperti database real-time atau authentication. Plan gratisnya cukup dermawan dan bisa jadi pilihan jika kamu sudah akrab dengan ekosistem Google.</p>
 <p>Nah itulah 7 penyedia hosting Jamstack gratis. Dengan menggunakan layanan mereka anda bisa membuat sebuah website yang keren, ringan, cepat, stabil, aman, dan juga gratis. Mau contoh? <strong>Website yang sedang anda lihat ini adalah contohnya!</strong></p>
 <p>Lalu bagaimana caranya agar anda juga bisa, bahkan tanpa koding sama sekali? Bisa? Ya, bisa! Percayalah, karena saya membangun website ini 100% tanpa koding. Saya akan ajarkan caranya. Klik link ini sekarang. Saya akan bagikan rahasianya.</p>
+<p><a href="https://www.pexels.com/photo/person-holding-a-cup-of-coffee-beside-macbook-461073/">Photo by Pixabay</a> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
