@@ -12,7 +12,7 @@
     {
         "path": "/5-alasan-mengapa-website-itu-lebih-penting-dari-media-sosial/index.html",
         "type": "file",
-        "md5": "67fb496978b3eaddb1f13b004c044e50"
+        "md5": "97cecf07250a13185459b5c7b732b981"
     },
     {
         "path": "7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri",
@@ -177,7 +177,17 @@
     {
         "path": "/authors/eka-maharta/page/2/index.html",
         "type": "file",
-        "md5": "dbc40e9ffad08806807a038e9dd63f61"
+        "md5": "f795cb7a38f6625a67a1e30c4eecb20a"
+    },
+    {
+        "path": "authors/eka-maharta/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/eka-maharta/page/3/index.html",
+        "type": "file",
+        "md5": "964326242d59bcc434c2633457cf81a3"
     },
     {
         "path": "bagaimana-biar-bisa-konsisten",
@@ -242,12 +252,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "48dd4426da640f2706d745f83d33a9fb"
+        "md5": "dcbd2f691d74793df85b451c02708a9d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "70602eff19fda6488dd6a990156716f5"
+        "md5": "73c628daa287653fbf41d62bda9e93e2"
     },
     {
         "path": "hubungi-kami",
@@ -262,7 +272,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "38f5dede2574c439f40c442b0f29edb1"
+        "md5": "fa536e1715cff437ff35d4e26059b845"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -408,6 +418,41 @@
         "path": "/media/posts/14/responsive/pexels-karolina-grabowska-5899215-xs.webp",
         "type": "file",
         "md5": "955789d7e36712ba86437ed08d1fd326"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/pexels-bintimalu-1485657.jpg",
+        "type": "file",
+        "md5": "5c45a49987bab3440cb29d7f55c5f96e"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/pexels-bintimalu-1485657-md.webp",
+        "type": "file",
+        "md5": "efa678accab8060d61d484a386de5d29"
+    },
+    {
+        "path": "/media/posts/15/responsive/pexels-bintimalu-1485657-sm.webp",
+        "type": "file",
+        "md5": "12f6148f1378ae70b628ac63cdfa809a"
+    },
+    {
+        "path": "/media/posts/15/responsive/pexels-bintimalu-1485657-xl.webp",
+        "type": "file",
+        "md5": "3ef9fba96c63acf5bcf5f8734af8a06a"
+    },
+    {
+        "path": "/media/posts/15/responsive/pexels-bintimalu-1485657-xs.webp",
+        "type": "file",
+        "md5": "caaef011c2c2026f48dc5f3ee46a4837"
     },
     {
         "path": "media/posts/2",
@@ -967,7 +1012,7 @@
     {
         "path": "/mengapa-perlu-punya-penghasilan-sampingan/index.html",
         "type": "file",
-        "md5": "1a04ffc512130fe3546a017b51e76a49"
+        "md5": "8052c7fc2d006d495683dc54f1eaed04"
     },
     {
         "path": "mengapa-produk-dan-pasar-itu-perlu-fokus",
@@ -977,7 +1022,17 @@
     {
         "path": "/mengapa-produk-dan-pasar-itu-perlu-fokus/index.html",
         "type": "file",
-        "md5": "b37d360e0b4477c5ece36ddd9c1f4ebc"
+        "md5": "3b32dbc5567b9e7df7e488ce80bc4f5c"
+    },
+    {
+        "path": "mengapa-sulit-mencari-klien",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mengapa-sulit-mencari-klien/index.html",
+        "type": "file",
+        "md5": "cace5ea2168b00a7dbbe798725c92029"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi",
@@ -1002,7 +1057,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "8ce8663dadfbe4805ec5fd1c1c385661"
+        "md5": "12bacbf81cea23bc5a42696806aff99c"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "e073c42b1e6e45880d58ac6b78198359"
     },
     {
         "path": "robots.txt",
@@ -1022,7 +1087,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c6337b574cba6cd8b92b7e9e328ec19d"
+        "md5": "d181d80213955431f3487453c33828c9"
     },
     {
         "path": "sitemap.xsl",
