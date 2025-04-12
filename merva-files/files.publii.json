@@ -15,6 +15,16 @@
         "md5": "97cecf07250a13185459b5c7b732b981"
     },
     {
+        "path": "5-situs-foto-bebas-hak-cipta-alias-gratis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/5-situs-foto-bebas-hak-cipta-alias-gratis/index.html",
+        "type": "file",
+        "md5": "9cca4938b4fa980e8ffdbf6047cd6062"
+    },
+    {
         "path": "7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri",
         "type": "directory",
         "md5": false
@@ -252,12 +262,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "dcbd2f691d74793df85b451c02708a9d"
+        "md5": "8f5bc921d5464779a0018a3e09adc8e3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "73c628daa287653fbf41d62bda9e93e2"
+        "md5": "8ca81f708ff55d9fe496493bd4a851c4"
     },
     {
         "path": "hubungi-kami",
@@ -272,7 +282,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "fa536e1715cff437ff35d4e26059b845"
+        "md5": "5d88a2303de5a5d03f7c21c41c07eff8"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -1032,7 +1042,7 @@
     {
         "path": "/mengapa-sulit-mencari-klien/index.html",
         "type": "file",
-        "md5": "cace5ea2168b00a7dbbe798725c92029"
+        "md5": "4dac7d9f0d39df2cdfb50e577b57c58b"
     },
     {
         "path": "menjadi-agen-properti-itu-bukan-sekedar-komisi",
@@ -1057,7 +1067,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "12bacbf81cea23bc5a42696806aff99c"
+        "md5": "18275fc26d44da65177640fe338f39df"
     },
     {
         "path": "page/3",
@@ -1067,7 +1077,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "e073c42b1e6e45880d58ac6b78198359"
+        "md5": "3f60717d7afa0c7a838856def5b2d253"
     },
     {
         "path": "robots.txt",
@@ -1087,7 +1097,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d181d80213955431f3487453c33828c9"
+        "md5": "cb96dbae278767693ca2ccf2cfc672f8"
     },
     {
         "path": "sitemap.xsl",
