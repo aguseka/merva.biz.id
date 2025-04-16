@@ -7,7 +7,7 @@
     {
         "path": "/30-situs-foto-bebas-hak-cipta-alias-gratis-tahun-2025/index.html",
         "type": "file",
-        "md5": "0b537a35be8c07597a2c2cb7c42f38bd"
+        "md5": "cba743298ad4a98785597a95ac82f6f2"
     },
     {
         "path": "404.html",
@@ -43,6 +43,16 @@
         "path": "/7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri/index.html",
         "type": "file",
         "md5": "d03fcb08136857a1e881f82f1277d44b"
+    },
+    {
+        "path": "7-situs-dengan-template-website-gratis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/7-situs-dengan-template-website-gratis/index.html",
+        "type": "file",
+        "md5": "eaf95e032936d2eafc4605a8f5b29b5e"
     },
     {
         "path": "7-situs-terbaik-untuk-membuat-website-murah-atau-gratis",
@@ -272,12 +282,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "bd3cc0dad3b50472b1264ae63e54a382"
+        "md5": "5eaff9953f2887e99a418a492423e113"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c292dacc65297938edf58ab079be2156"
+        "md5": "7b3799a1a64e1905e78a51240e615cbc"
     },
     {
         "path": "hubungi-kami",
@@ -292,7 +302,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "83541140b8d4c6d53e7edeb49e500eff"
+        "md5": "d22ac5dfcca1c22ce1a8d4c3e4b804b8"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -755,6 +765,41 @@
         "md5": "1bbc1a674c93af780379ebfdeadc2a16"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/laptop-2411303_640.jpg",
+        "type": "file",
+        "md5": "d0600a7502a1b3f0bed13d7333c72f27"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/laptop-2411303_640-md.webp",
+        "type": "file",
+        "md5": "dfeda6b4e748d1264c0b590bacee5e60"
+    },
+    {
+        "path": "/media/posts/28/responsive/laptop-2411303_640-sm.webp",
+        "type": "file",
+        "md5": "6dbb2a280a5e95e064d67302989b4aa5"
+    },
+    {
+        "path": "/media/posts/28/responsive/laptop-2411303_640-xl.webp",
+        "type": "file",
+        "md5": "dfeda6b4e748d1264c0b590bacee5e60"
+    },
+    {
+        "path": "/media/posts/28/responsive/laptop-2411303_640-xs.webp",
+        "type": "file",
+        "md5": "1efdd12ffdda9f13a45694453f707970"
+    },
+    {
         "path": "media/posts/30",
         "type": "directory",
         "md5": false
@@ -1092,7 +1137,7 @@
     {
         "path": "/membuat-website-murah-itu-mungkin-contohnya-blog-ini/index.html",
         "type": "file",
-        "md5": "54d3bf8fc3ba5eff27f8a2e1a41f979a"
+        "md5": "1cf7bee76a3f899de05defaea9e51529"
     },
     {
         "path": "mengapa-perlu-punya-penghasilan-sampingan",
@@ -1147,7 +1192,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "8b7d157d0ebb83af4a7b4e6910dbda3b"
+        "md5": "9c6fa183ac0ef9f654e9310a0f7fc131"
     },
     {
         "path": "page/3",
@@ -1157,7 +1202,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "2ca760b8a9a0a2ab30e608add31dca26"
+        "md5": "17498979c6f169ad1277cb66eb77d07c"
     },
     {
         "path": "robots.txt",
@@ -1177,7 +1222,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a3859217ab2291910302e094967e369a"
+        "md5": "e8cf525ab22a45b6c26d43bb9e37a825"
     },
     {
         "path": "sitemap.xsl",
