@@ -62,7 +62,7 @@
     {
         "path": "/7-situs-terbaik-untuk-membuat-website-murah-atau-gratis/index.html",
         "type": "file",
-        "md5": "3645be540c94b3aa811ebd4848d3e0d5"
+        "md5": "1e669536b9efc21a82b7f7e0bfc4735f"
     },
     {
         "path": "assets",
@@ -237,7 +237,7 @@
     {
         "path": "/bagaimana-caranya-membangun-bisnis-tanpa-modal/index.html",
         "type": "file",
-        "md5": "f5cd994ea4cc6312ea42e8d3914c6243"
+        "md5": "53d564bd4b191f8be2016dfe01113b53"
     },
     {
         "path": "bagaimana-memulai-usaha-dengan-modal-kecil-dan-tak-ribet",
@@ -257,7 +257,7 @@
     {
         "path": "/bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja/index.html",
         "type": "file",
-        "md5": "1e95468ee20453f72477d2a5d51c53ac"
+        "md5": "1073187dc6f953f6fabb0be80848c638"
     },
     {
         "path": "begini-caranya-agar-disiplin",
@@ -282,12 +282,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5eaff9953f2887e99a418a492423e113"
+        "md5": "22f686eaa1ede538c51b322301311a13"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7b3799a1a64e1905e78a51240e615cbc"
+        "md5": "81d14b65118f80d8a29b07ba3200a8cb"
     },
     {
         "path": "hubungi-kami",
@@ -323,6 +323,16 @@
         "path": "/inilah-langkah-pertama-memulai-usaha-5-mindset-wajib/index.html",
         "type": "file",
         "md5": "b858968dfbd4fb7c8f29ee0fb727310c"
+    },
+    {
+        "path": "kalau-bisnis-cuma-untuk-kejar-uang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kalau-bisnis-cuma-untuk-kejar-uang/index.html",
+        "type": "file",
+        "md5": "684b3412188fed4547f2c283cbdfa25c"
     },
     {
         "path": "kursus",
@@ -483,6 +493,41 @@
         "path": "/media/posts/15/responsive/pexels-bintimalu-1485657-xs.webp",
         "type": "file",
         "md5": "caaef011c2c2026f48dc5f3ee46a4837"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/pexels-pixabay-259027.jpg",
+        "type": "file",
+        "md5": "eb8fda9831f7e4b368b13262e183ad2e"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/pexels-pixabay-259027-md.webp",
+        "type": "file",
+        "md5": "9f3c1b064d2da4f2c73e68425b815580"
+    },
+    {
+        "path": "/media/posts/16/responsive/pexels-pixabay-259027-sm.webp",
+        "type": "file",
+        "md5": "2b173c6eff765cca1540319a5ba875d0"
+    },
+    {
+        "path": "/media/posts/16/responsive/pexels-pixabay-259027-xl.webp",
+        "type": "file",
+        "md5": "5ac1c6f3c4e5cd72798d971816d386bd"
+    },
+    {
+        "path": "/media/posts/16/responsive/pexels-pixabay-259027-xs.webp",
+        "type": "file",
+        "md5": "533d78753a1cc861fd4d7d5abf2c2c70"
     },
     {
         "path": "media/posts/2",
@@ -1192,7 +1237,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "9c6fa183ac0ef9f654e9310a0f7fc131"
+        "md5": "16bfb33442d773f7a4cb7eb6e55ad437"
     },
     {
         "path": "page/3",
@@ -1202,7 +1247,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "17498979c6f169ad1277cb66eb77d07c"
+        "md5": "358a94bb2241cc29ccae16bc7b222381"
     },
     {
         "path": "robots.txt",
@@ -1222,7 +1267,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e8cf525ab22a45b6c26d43bb9e37a825"
+        "md5": "0f62336307161990c293af3cfad30956"
     },
     {
         "path": "sitemap.xsl",
@@ -1247,7 +1292,7 @@
     {
         "path": "/tanpa-pasar-yang-jelas-maka-bisnis-anda-adalah-omong-kosong/index.html",
         "type": "file",
-        "md5": "ed42d69da5a2abfe6ebc30da6ab66506"
+        "md5": "0a27f42dc61ee7fdb8dc358ee9d7bb55"
     },
     {
         "path": "tentang-merva",
