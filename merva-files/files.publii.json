@@ -45,6 +45,16 @@
         "md5": "4a313e1c8bbf02a205fc8fbd16443d8c"
     },
     {
+        "path": "6-ai-chat-powerful-selain-chatgpt-kenali-sebelum-memilih",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/6-ai-chat-powerful-selain-chatgpt-kenali-sebelum-memilih/index.html",
+        "type": "file",
+        "md5": "13fa897159326fa2482e0c2f02355bbf"
+    },
+    {
         "path": "7-hosting-untuk-bikin-website-gratis-bisa-pakai-domain-sendiri",
         "type": "directory",
         "md5": false
@@ -292,12 +302,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d789465278018629ce6887fcfa754459"
+        "md5": "19b0b6133f1c840f0672e097b8d0c65d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ac82b378f13cef8dc21343ab63ba9783"
+        "md5": "8267327e6bbe4e98f5ffb3048bc09194"
     },
     {
         "path": "hubungi-kami",
@@ -312,7 +322,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e8ad98095c7d4d95e6d4176c56948348"
+        "md5": "0c01851638e573304cee631709dd563b"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -890,6 +900,41 @@
         "md5": "1efdd12ffdda9f13a45694453f707970"
     },
     {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/head-663997_1280.jpg",
+        "type": "file",
+        "md5": "809286e1eb518bf65817bde1468877cc"
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/head-663997_1280-md.webp",
+        "type": "file",
+        "md5": "4194c5efb90411c90ecf88f668cb2c00"
+    },
+    {
+        "path": "/media/posts/29/responsive/head-663997_1280-sm.webp",
+        "type": "file",
+        "md5": "83a0b4c289a9946edd728c91239f1af0"
+    },
+    {
+        "path": "/media/posts/29/responsive/head-663997_1280-xl.webp",
+        "type": "file",
+        "md5": "3d491e5d477073abd3e6c25679446e6c"
+    },
+    {
+        "path": "/media/posts/29/responsive/head-663997_1280-xs.webp",
+        "type": "file",
+        "md5": "33bc2c25bd6dd0f7e8db6a8c9f2eeef0"
+    },
+    {
         "path": "media/posts/30",
         "type": "directory",
         "md5": false
@@ -1327,7 +1372,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "1ba761b0989389c026f41cd42ce7add3"
+        "md5": "97e0beb013e1e26ea19b35a4672799bb"
     },
     {
         "path": "page/3",
@@ -1337,7 +1382,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "b7faadde28179a356b4dba2bd6ee7a77"
+        "md5": "8e30a6b0d2ee7f1660e09e4012e403fe"
     },
     {
         "path": "robots.txt",
@@ -1357,7 +1402,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "926144d711f1a236193e89ed172d83fb"
+        "md5": "aa055a1189254683749cf2713f5afafb"
     },
     {
         "path": "sitemap.xsl",
