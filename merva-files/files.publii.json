@@ -237,7 +237,17 @@
     {
         "path": "/authors/eka-maharta/page/3/index.html",
         "type": "file",
-        "md5": "75c75ef36aadeeee10e85aabdb18c59f"
+        "md5": "4f45ec60b121aaf08ce55845c1b62d66"
+    },
+    {
+        "path": "authors/eka-maharta/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/eka-maharta/page/4/index.html",
+        "type": "file",
+        "md5": "58fac3f7d2c2b87f3f67497901a38c92"
     },
     {
         "path": "bagaimana-biar-bisa-konsisten",
@@ -267,7 +277,7 @@
     {
         "path": "/bagaimana-memulai-usaha-dengan-modal-kecil-dan-tak-ribet/index.html",
         "type": "file",
-        "md5": "e788f40e5448d21e0ce0a82bc2d9a243"
+        "md5": "23c30c40c12f47801435a136d913708a"
     },
     {
         "path": "bagaimana-mengatur-waktu-membangun-bisnis-pribadi-sambil-bekerja",
@@ -302,12 +312,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "19b0b6133f1c840f0672e097b8d0c65d"
+        "md5": "012be3c9cdb82f2e8a1108639614d3d1"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8267327e6bbe4e98f5ffb3048bc09194"
+        "md5": "6d5e9980e3a5a6c8f13d2075eecc6411"
     },
     {
         "path": "hubungi-kami",
@@ -323,6 +333,16 @@
         "path": "index.html",
         "type": "file",
         "md5": "820f82f18dbb5ce2aa0c7cae7e37ad66"
+    },
+    {
+        "path": "ingin-punya-usaha-buang-gengsi-dan-ego",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ingin-punya-usaha-buang-gengsi-dan-ego/index.html",
+        "type": "file",
+        "md5": "3dfe071974bc1e3916e3e4f0333def17"
     },
     {
         "path": "inilah-4-jenis-produk-digital-yang-cepat-bikin-cuan",
@@ -583,6 +603,41 @@
         "path": "/media/posts/17/responsive/pexels-jill-wellington-1638660-39853-xs.webp",
         "type": "file",
         "md5": "549ae9eefd77fcfaea0e9a3b16299b76"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/pexels-cottonbro-9210387.jpg",
+        "type": "file",
+        "md5": "c62f4831326d32e15cc286bc4f42b9ee"
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/pexels-cottonbro-9210387-md.webp",
+        "type": "file",
+        "md5": "1073c17c627f8aed552826078f73222a"
+    },
+    {
+        "path": "/media/posts/19/responsive/pexels-cottonbro-9210387-sm.webp",
+        "type": "file",
+        "md5": "d5178f737b3f717c8abf2f2bf5442809"
+    },
+    {
+        "path": "/media/posts/19/responsive/pexels-cottonbro-9210387-xl.webp",
+        "type": "file",
+        "md5": "4ef16e87008f72eadeac159feffd898a"
+    },
+    {
+        "path": "/media/posts/19/responsive/pexels-cottonbro-9210387-xs.webp",
+        "type": "file",
+        "md5": "ebc78d39513d11f98b11fb3a4f42a56a"
     },
     {
         "path": "media/posts/2",
@@ -1317,7 +1372,7 @@
     {
         "path": "/mengapa-perlu-punya-penghasilan-sampingan/index.html",
         "type": "file",
-        "md5": "53a192879215c5a2f45aefb3bc4bb873"
+        "md5": "73cf557c4248387f7239f4d65d59dd44"
     },
     {
         "path": "mengapa-produk-dan-pasar-itu-perlu-fokus",
@@ -1357,7 +1412,7 @@
     {
         "path": "/mitos-bernama-financial-freedom/index.html",
         "type": "file",
-        "md5": "d2ab75b2be2051b90180e90e212bf3d5"
+        "md5": "f0b2b50ac0f7500c3ee429e97021529d"
     },
     {
         "path": "page",
@@ -1372,7 +1427,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "486426b7831667d13147b02825ae8313"
+        "md5": "15fa4dd322673f66bcf484ee3e902793"
     },
     {
         "path": "page/3",
@@ -1382,7 +1437,17 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "ed6ff258a204c834849f72838f32fc6f"
+        "md5": "2e66210e55bd9832e965e17cf93d3492"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "4a2a661b3718a366b38d4b4288a156ac"
     },
     {
         "path": "robots.txt",
@@ -1402,7 +1467,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "aa055a1189254683749cf2713f5afafb"
+        "md5": "b2cc5de862b3e38f4657c7df3e210478"
     },
     {
         "path": "sitemap.xsl",
