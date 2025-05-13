@@ -312,12 +312,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "eee93ff2cf576a6d1e8909715c7cac4c"
+        "md5": "34867d7c08dca41d3be82ffea52508fe"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c2946d90625c4db942955288cded4e04"
+        "md5": "ff687d3ceffbd134fd1fca516f6515f7"
     },
     {
         "path": "free",
@@ -1502,7 +1502,7 @@
     {
         "path": "/phk-masal-dimana-mana/index.html",
         "type": "file",
-        "md5": "b7793d650a7f319d618e7a67084ad125"
+        "md5": "d453cc9d004067e2042644e092e5e034"
     },
     {
         "path": "robots.txt",
@@ -1522,7 +1522,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d48c2c9ae5d3ef4ab735a56e05c2e7e5"
+        "md5": "0c9177bd2dc029197f602b618c20bad8"
     },
     {
         "path": "sitemap.xsl",
